@@ -6,6 +6,11 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "tailwindcss": "^3.0.15"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "vue3-google-map": "^0.8.3"
   }
 }
